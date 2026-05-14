@@ -14,9 +14,13 @@ config/mirror.param.yaml : 좌우 반사/거울 관련 파라미터 (비주얼�
 
 config/simulator_model.param.yaml : 시뮬레이터용
 
+---
+
 mesh : 
 
 (수정불필요)(rviz2에 보이는 차량 3d모델)
+
+---
 
 urdf
 
