@@ -24,6 +24,8 @@ mesh :
 
 urdf
 
+(수정)
+
 urdf/vehicle.xacro : base_link, 휠, 차량 프레임, 3d모델 위치 - 나중에 센서키트와 연결
 
 
