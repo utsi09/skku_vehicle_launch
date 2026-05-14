@@ -18,7 +18,7 @@ config/vehicle_info.param.yaml : 실제 차량 치수
 
 mesh : 
 
-(수정불필요)(rviz2에 보이는 차량 3d모델)
+~~(수정불필요)(rviz2에 보이는 차량 3d모델)~~
 
 ---
 
